@@ -1,0 +1,11 @@
+{
+  "name": "practice-with-angular-material",
+  "version": "1.0.0",
+  "description": "Practice setting up Angular Material project from the ground up",
+  "main": "AppController.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Miles Nelson",
+  "license": "ISC"
+}
